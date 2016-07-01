@@ -1,3 +1,5 @@
+#!/usr/bin/env python 
+
 #Euclidean algorithm, by Cameron Wilson
 
 def main():
